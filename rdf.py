@@ -1,3 +1,8 @@
+"""
+It needs rdf.xvg and rdf_cn.xvg
+plot rdf and rdf_cn using rdf.xvg and rdf_cn.xvg which produce by gromacs 
+"""
+
 import matplotlib.pyplot as plt
 
 frame=[]
